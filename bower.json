@@ -1,0 +1,21 @@
+{
+  "name": "total-mean",
+  "authors": [
+    "Esdras Etrenne <esdras.pierre91@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.4",
+    "angular": "^1.6.4"
+  }
+}
